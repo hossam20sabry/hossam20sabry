@@ -4,7 +4,7 @@
   <li>👀 I’m interested in Web Development</li>
   <li>🌱 I’m currently learning Back-End With Laravel</li>
   <li>💞️ I’m looking to collaborate on</li>
-  <li><ul>📫 How to reach me 
+  <li><ul>📫 How to reach to me 
     <li>Phone: 01552410690</li>
     <li>Email: hossamsapry006@gmail.com</li>
   </ul></li>
