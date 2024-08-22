@@ -2,7 +2,7 @@
 <ul>
   <li>👋 Hi, I’m @hossam20sabry</li>
   <li>👀 I’m interested in Web Development</li>
-  <li>🌱 I’m currently learning Back-End With Laravel</li>
+  <li>🌱 I’m Laravel full stack</li>
   <li>💞️ I’m looking to collaborate on</li>
   <li><ul>📫 How to reach to me 
     <li>Phone: 01552410690</li>
