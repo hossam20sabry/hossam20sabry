@@ -3,13 +3,9 @@
   <li>👋 Hi, I’m @hossam20sabry</li>
   <li>👀 I’m interested in Web Development</li>
   <li>🌱 I’m full stack(Laravel + React)</li>
-  <li><ul>📫 How to reach to me 
-    <li>Phone: 01552410690</li>
-    <li>Email: hossamsapry006@gmail.com</li>
-  </ul></li>
-</ul>
+  
 # 💫 About Me:
-About<br>At first, I built more than one project using Laravel and built the views using Blade provided by Laravel. After that I learned React and was able to build more than one website using Laravel as a Backend for making APIs and React as a Frontend.<br><br>Laravel full stack | React developer<br><br>
+<br>At first, I built more than one project using Laravel and built the views using Blade provided by Laravel. After that I learned React and was able to build more than one website using Laravel as a Backend for making APIs and React as a Frontend.<br><br>Laravel full stack | React developer<br><br>
 
 
 ## 🌐 Socials:
@@ -25,6 +21,11 @@ About<br>At first, I built more than one project using Laravel and built the vie
 ---
 [![](https://visitcount.itsvg.in/api?id=hossam20sabry&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<li><ul>📫 How to reach to me 
+    <li>Phone: 01552410690</li>
+    <li>Email: hossamsapry006@gmail.com</li>
+  </ul></li>
+</ul>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
 hossam20sabry/hossam20sabry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
