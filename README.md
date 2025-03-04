@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Hossam Sapry Profile</h1>
 
 # 💫 About Me:
-At first, I built more than one project using Laravel and built the views using Blade provided by Laravel. After that I learned React and was able to build more than one website using Laravel as a Backend for making APIs and React as a Frontend.<br><br>Laravel full stack | React developer<br><br>
+At first, I have built many web applications using Laravel depending on MVC structure that provided by Laravel. After that I learned React and was able to build websites using Laravel as a Backend for making APIs and React as a Frontend. Recently, I started using Livewire to improve my skills. <br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hossam-sapry-0332b3192/) 
